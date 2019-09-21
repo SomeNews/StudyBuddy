@@ -69,6 +69,8 @@
 2016年1月16日
 
 ####################################################################
-[知乎上的截图](https://github.com/SomeNews/StudyBuddy/blob/master/%E5%90%8D%E5%8D%95%EF%BC%91.jpg)
-[](https://github.com/SomeNews/StudyBuddy/blob/master/%E5%90%8D%E5%8D%95%EF%BC%92.jpg)
-[](https://github.com/SomeNews/StudyBuddy/blob/master/%E5%90%8D%E5%8D%95%EF%BC%93.jpg)
+![知乎上的截图](https://github.com/SomeNews/StudyBuddy/blob/master/%E5%90%8D%E5%8D%95%EF%BC%91.jpg)
+
+
+![其他地方截图](https://github.com/SomeNews/StudyBuddy/blob/master/%E5%90%8D%E5%8D%95%EF%BC%92.jpg)
+![其他地方截图](https://github.com/SomeNews/StudyBuddy/blob/master/%E5%90%8D%E5%8D%95%EF%BC%93.jpg)
